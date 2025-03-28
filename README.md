@@ -18,7 +18,7 @@ This project implements a UNet architecture with skip connections for image rest
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/your-project.git
+   git clone https://github.com/Prathamesh-Pawar/image-dip.git
    ```
 2. Install dependencies:
    ```sh
