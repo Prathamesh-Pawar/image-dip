@@ -26,7 +26,8 @@ This project implements a UNet architecture with skip connections for image rest
    ```
 3. Run the Python script:
    ```sh
-   python Unet_skip_connect_Implementation.py
+   python Unet_skip_connect_Implementation.py --image_path path/to/your/image.jpg --num_iterations 5000
+
    ```
 
 ## Results
