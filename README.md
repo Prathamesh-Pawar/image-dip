@@ -1,4 +1,4 @@
-# UNet Skip Connection Implementation
+# Image Restoration using Deep Image Prior
 
 ## Overview
 
